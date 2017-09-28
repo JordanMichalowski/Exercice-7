@@ -1,0 +1,9 @@
+fieldset#identite, fieldset#identite legend{
+  background: #2574A9
+}
+fieldset#adresse, fieldset#adresse legend{
+  background: #9A12B3
+}
+fieldset#paiement, fieldset#paiement legend{
+  background: #DB0A5B;
+}
