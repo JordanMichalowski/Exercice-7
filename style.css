@@ -7,3 +7,10 @@ fieldset#adresse, fieldset#adresse legend{
 fieldset#paiement, fieldset#paiement legend{
   background: #DB0A5B;
 }
+input#coche{
+margin-left: 45px;
+}
+input{
+  border: 1px solid grey;
+  margin-top: 2px;
+}
